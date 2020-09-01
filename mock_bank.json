@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "uuid": "77f5ee63-6951-4ea7-aef4-bf7b1f0457a2",
+      "name": "Cortana",
+      "pash": "$2b$10$BSrpSPFnbkpmph.1fDLJ2emD52xwz/7XlC9uY3MX74.TRA9JgsK76",
+      "balance": 15
+    },
+    {
+      "uuid": "238d575b-3a05-4a37-9cdc-01380e35bda8",
+      "name": "Zangetsu",
+      "pash": "$2b$10$RQI4JNDNUe.7tA6ycLkcgOoSZuzPS0UHgeTOLPzl6rppy9PQuMkYO",
+      "balance": 5
+    }
+  ],
+  "transactions": [
+    {
+      "time": 1598987620511,
+      "from": 0,
+      "to": "77f5ee63-6951-4ea7-aef4-bf7b1f0457a2",
+      "amount": 20,
+      "memo": ""
+    },
+    {
+      "time": 1598987620511,
+      "from": "77f5ee63-6951-4ea7-aef4-bf7b1f0457a2",
+      "to": "238d575b-3a05-4a37-9cdc-01380e35bda8",
+      "amount": 5,
+      "memo": ""
+    }
+  ]
+}
